@@ -3,5 +3,5 @@
 
 ![ネットワーク分析(bigram)](./network_analysis.png)
 
-- report.pdf
+- report.pdf  
 当時のゼミでの発表資料
